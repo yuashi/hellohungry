@@ -11,7 +11,7 @@ const PizzaList = ({ pizzaList }) => {
         have something new and exciting to expect, because why not ? Get ready
         to curb your hunger at mouthwatering prices and exciting deals. Our
         promise you will never be HANGRY again ! Not to forget we provide free
-        home delivery under 30 mins or your pizza's on us !
+        home delivery under 30 mins or your pizza is on us !
       </p>
       <div className={styles.wrapper}>
         {pizzaList.map((pizza) => (
